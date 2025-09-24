@@ -95,8 +95,7 @@ Follow these steps to get the project running locally:
     ![Login Page](public/screenshot-login.png)
 2.  **Authenticated - Playlists Display:**
     ![Playlists Display](public/screenshot-playlists.png)
-3.  **Player UI - Playing Track:**
-    ![Player UI](public/screenshot-player.png)
+
 
 *(You would place actual `screenshot-login.png`, `screenshot-playlists.png`, `screenshot-player.png` files in your `public` directory)*
 
@@ -113,10 +112,3 @@ This application can be easily deployed to Vercel (or similar platforms).
 3.  **Build and Deploy:** Vercel will automatically detect it's a Next.js project and deploy it.
 
 ---
-
-### Demo Video Walkthrough
-
-*(Provide a link to your 2-5 minute video walkthrough here)*
-
-[Link to Demo Video (e.g., unlisted YouTube video)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

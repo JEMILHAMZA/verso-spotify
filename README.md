@@ -89,7 +89,7 @@ Follow these steps to get the project running locally:
 
 ## Screenshots
 
-*(Here, you would typically embed screenshots of your application's key states, e.g.:)*
+
 
 1.  **Login Page:**
     ![Login Page](public/screenshot-login.png)
@@ -97,7 +97,6 @@ Follow these steps to get the project running locally:
     ![Playlists Display](public/screenshot-playlists.png)
 
 
-*(You would place actual `screenshot-login.png`, `screenshot-playlists.png`, `screenshot-player.png` files in your `public` directory)*
 
 ## Deployment (e.g., Vercel)
 
